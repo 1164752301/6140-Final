@@ -1,0 +1,1 @@
+name,conv_num,fc_num,conv_filters_num,conv_filters_size,pool_size,dropout,fc_denses_num,lr,best_epoch,finish_time_consumed,reach_50_time_consumed
